@@ -65,8 +65,8 @@ p
   position: relative;
   width: 20%;
   min-width: 150px;
-  max-width: 200px; 
-  height: auto; 
+  max-width: 200px;
+  height: auto;
 }
 .body_top
 {
@@ -88,7 +88,7 @@ footer
   flex-direction: row;
   align-items:center;
   justify-content: space-around;
-}  
+}
  header {
   background-color: #f0f0f0;
   padding: 10px;
@@ -98,12 +98,12 @@ nav ul {
   list-style: none;
   margin: 0;
   padding: 0;
-  display: flex; 
+  display: flex;
   justify-content: center;
 }
 
 nav li {
-  margin: 0 10px; 
+  margin: 0 10px;
 }
 
 nav a {
